@@ -9,3 +9,8 @@ Created on Thu Nov  7 11:52:30 2024
 
 def hi_git_func():
     return 'Hi GIT!!!'
+
+"IM making some changes now"
+
+def idkwhatever():
+    return "my stomach burns."
